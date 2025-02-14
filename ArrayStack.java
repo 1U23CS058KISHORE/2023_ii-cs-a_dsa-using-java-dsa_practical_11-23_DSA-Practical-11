@@ -19,7 +19,7 @@ public void push(int data)
     {
 
       stack[++top] = data;
-      System.out.println("Element  is inserted");
+      System.out.println("Element is inserted");
         }
     }
 public int pop() 
